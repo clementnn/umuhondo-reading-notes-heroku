@@ -8,25 +8,29 @@ Summary: TODO
 ## Part One: The Dimensions of Reading.
 ### 1. The Activity and Art of Reading.
 Here the author identifies two goals of reading that the book will try to address and help the reader achieve better:
-	* reading for information
-	* reading for understanding.
+* reading for information
+* reading for understanding
+
 According to the author this kind of reading requires the following two conditions to take place 
-	1. The writer should be 'superior' to the reader in the sense that they should me more knowledgeable in the topic that the reader.
-	2. The reader should be able to overcome this knowledge gap, if not fully at least always striving to bridge it.
+	
+1. The writer should be 'superior' to the reader in the sense that they should me more knowledgeable in the topic that the reader.
+	
+2. The reader should be able to overcome this knowledge gap, if not fully at least always striving to bridge it.
+
 They close the book by noting that reading a book should be done actively with the reader's full attention and imagination at work as, done this way, reading is equivalent to learning by instruction, contrary to the common idea that it is like learning by discovery.
 
 ### 2. The Levels of Reading.
-	1. [Elementary Reading] In this level the reader strives to answer the question: 'what does the sentence say?'
-	1. [Inspectional Reading] This level corresponds to a situation when the reader sets aside a given set of (short) time and tries to get the most out of the book. The questions that can be answered after completing this type of reading are : 'What is the book about?' or 'What is the structure of the book?'.
-	1. [Analytical Reading] Main topic of the book, this is the best reading one can and should do. 'some books are to be tasted, others to be swallowed and some few to be chewed and digested.' -Francis Bacon. Reading a book analytically is chewing and digesting it.
-	1. [Syntopical Reading] Most complex and systematic reading of all. The reader reads several books on the same topic and is able to build a global understanding that was not present in any single book.
+1. __Elementary Reading__ In this level the reader strives to answer the question: 'what does the sentence say?'
+1. __Inspectional Reading__ This level corresponds to a situation when the reader sets aside a given set of (short) time and tries to get the most out of the book. The questions that can be answered after completing this type of reading are : 'What is the book about?' or 'What is the structure of the book?'.
+1. __Analytical Reading__ Main topic of the book, this is the best reading one can and should do. 'some books are to be tasted, others to be swallowed and some few to be chewed and digested.' -Francis Bacon. Reading a book analytically is chewing and digesting it.
+1. __Syntopical Reading__ Most complex and systematic reading of all. The reader reads several books on the same topic and is able to build a global understanding that was not present in any single book.
 
 ### 3. The First Level of Reading: Elementary Reading.
 The author suggest that research has identified four stages in learning to read
-	1. [Reading readiness] 
-	1. [Reading simple materials]
-	1. [Rapid progress in vocabulary building]
-	1. Refinement and enhancement of the skills previously acquired.
+1. Reading readiness 
+1. Reading simple materials
+1. Rapid progress in vocabulary building
+1. Refinement and enhancement of the skills previously acquired.
 
 
 ### 4. The Second Level of Reading: Inspectionnal Reading.
