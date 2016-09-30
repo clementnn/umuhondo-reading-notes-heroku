@@ -1,4 +1,4 @@
-Title: How to Read a Book - Mortimer J. Adler
+Title: Test Article
 Date: 2016-10-01
 Category: Reading Notes
 Summary: TODO
