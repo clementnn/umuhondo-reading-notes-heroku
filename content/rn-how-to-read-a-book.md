@@ -39,45 +39,49 @@ The author suggest that research has identified four stages in learning to read
 
 ### 4. The Second Level of Reading: Inspectionnal Reading.
 There are two types of inspectionnal reading that the beginning reader should consider separate but will perform simultaneously as they gain experience.
-	1. Systematic Skimming or Pre-reading
-		1. Look at the title page and, if the book has one, at its preface
-		1. Study the table of contents
-		1. Check the index
-		1. Read the publisher's blurb
-		1. Look now at the chapters that seem to be pivotal to its argument
-		1. Turn the pages, dipping in here and there, reading a paragraph or two, sometimes several pages in sequence, never more than that.
-	The goal here is to look for clues in the book about it's general theme or idea.
-	1. Superficial Reading
-		Give the book a first read, front to back quicky without stopping to dig deeper in things you did not understand.
+
+1. Systematic Skimming or Pre-reading
+	1. Look at the title page and, if the book has one, at its preface
+	1. Study the table of contents
+	1. Check the index
+	1. Read the publisher's blurb
+	1. Look now at the chapters that seem to be pivotal to its argument
+	1. Turn the pages, dipping in here and there, reading a paragraph or two, sometimes several pages in sequence, never more than that.
+
+The goal here is to look for clues in the book about it's general theme or idea.
+
+1. Superficial Reading
+	Give the book a first read, front to back quicky without stopping to dig deeper in things you did not understand.
 
 ### 5. How to be a Demanding Reader.
 Four basic questions a demanding reader should ask themselves while reading:
-	1. What is the book about as a whole? Divide the book in its essential subordinate themes or topics.
-	1. What is being said in detail and how? What are the main ideas, assertions and arguments?
-	1. Is the book true, in whole or part?
-	1. What of it? Why does the author think this is important? Is it important to me? Should I seek more information?
+
+1. What is the book about as a whole? Divide the book in its essential subordinate themes or topics.
+1. What is being said in detail and how? What are the main ideas, assertions and arguments?
+1. Is the book true, in whole or part?
+1. What of it? Why does the author think this is important? Is it important to me? Should I seek more information?
 
 ## Part Two: The Third Level of Reading: Analytical Reading.
 ### 6. Pigeonholing a book.
-	* __RULE 1__. You must know what kind of book you are reading, and you should know this as early in the progress as possible, preferably before you begin to read.
+* __RULE 1__. You must know what kind of book you are reading, and you should know this as early in the progress as possible, preferably before you begin to read.
 ### 7. X-raying a book.
-	* __RULE 2__. State the unity of the whole book in a single sentence, or at most a few sentences (a short paragraph).
+* __RULE 2__. State the unity of the whole book in a single sentence, or at most a few sentences (a short paragraph).
 
-	* __RULE 3__. Set forth the major parts of the book, and show how these are organized into a whole, by being ordered to one another and to the unity of the whole.
+* __RULE 3__. Set forth the major parts of the book, and show how these are organized into a whole, by being ordered to one another and to the unity of the whole.
 
-	* __RULE 4__. Find out what the author's problems were. The author of a book starts with a question or a set of questions. The book ostensibly contains the answer or answers.
+* __RULE 4__. Find out what the author's problems were. The author of a book starts with a question or a set of questions. The book ostensibly contains the answer or answers.
 
 These four rules constitute the first state of analytical reading: finding what a book is about.
 
 ### 8. Coming to Terms with an Author.
-	* __RULE 5__. Find the important terms and through them come to terms with the author.
+* __RULE 5__. Find the important terms and through them come to terms with the author.
 
 ### 9. Determining an Author's Message.
-	* __RULE 6__. Mark the important sentences in the book and discover the propositions they contain.
+* __RULE 6__. Mark the important sentences in the book and discover the propositions they contain.
 
-	* __RULE 7__. Locate or construct the basic arguments in the book by finding them in the connection of sentences.
+* __RULE 7__. Locate or construct the basic arguments in the book by finding them in the connection of sentences.
 
-	* __RULE 8__. Find out what the author's answer to his questions are, which ones are left unanswered and which ones were raised by the book.
+* __RULE 8__. Find out what the author's answer to his questions are, which ones are left unanswered and which ones were raised by the book.
 
 These four rules form the second state of analytical reading: finding what a book says.
 
