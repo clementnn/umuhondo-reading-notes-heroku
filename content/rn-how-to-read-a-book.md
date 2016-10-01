@@ -24,7 +24,9 @@ They close the book by noting that reading a book should be done actively with t
 1. __Inspectional Reading__ This level corresponds to a situation when the reader sets aside a given set of (short) time and tries to get the most out of the book. The questions that can be answered after completing this type of reading are : _What is the book about?_ or _What is the structure of the book?_.
 1. __Analytical Reading__ Main topic of the book, this is the best reading one can and should do.
 > Some books are to be tasted, others to be swallowed and some few to be chewed and digested.
-> -Francis Bacon. Reading a book analytically is chewing and digesting it.
+> -Francis Bacon.
+
+Reading a book analytically is chewing and digesting it.
 
 1. __Syntopical Reading__ Most complex and systematic reading of all. The reader reads several books on the same topic and is able to build a global understanding that was not present in any single book.
 
