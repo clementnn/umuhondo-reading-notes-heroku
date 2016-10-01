@@ -20,13 +20,17 @@ According to the author this kind of reading requires the following two conditio
 They close the book by noting that reading a book should be done actively with the reader's full attention and imagination at work as, done this way, reading is equivalent to learning by instruction, contrary to the common idea that it is like learning by discovery.
 
 ### 2. The Levels of Reading.
-1. __Elementary Reading__ In this level the reader strives to answer the question: 'what does the sentence say?'
-1. __Inspectional Reading__ This level corresponds to a situation when the reader sets aside a given set of (short) time and tries to get the most out of the book. The questions that can be answered after completing this type of reading are : 'What is the book about?' or 'What is the structure of the book?'.
-1. __Analytical Reading__ Main topic of the book, this is the best reading one can and should do. 'some books are to be tasted, others to be swallowed and some few to be chewed and digested.' -Francis Bacon. Reading a book analytically is chewing and digesting it.
+1. __Elementary Reading__ In this level the reader strives to answer the question: _what does the sentence say?_
+1. __Inspectional Reading__ This level corresponds to a situation when the reader sets aside a given set of (short) time and tries to get the most out of the book. The questions that can be answered after completing this type of reading are : _What is the book about?_ or _What is the structure of the book?_.
+1. __Analytical Reading__ Main topic of the book, this is the best reading one can and should do.
+> Some books are to be tasted, others to be swallowed and some few to be chewed and digested.
+> -Francis Bacon. Reading a book analytically is chewing and digesting it.
+
 1. __Syntopical Reading__ Most complex and systematic reading of all. The reader reads several books on the same topic and is able to build a global understanding that was not present in any single book.
 
 ### 3. The First Level of Reading: Elementary Reading.
 The author suggest that research has identified four stages in learning to read
+
 1. Reading readiness 
 1. Reading simple materials
 1. Rapid progress in vocabulary building
@@ -55,25 +59,25 @@ Four basic questions a demanding reader should ask themselves while reading:
 
 ## Part Two: The Third Level of Reading: Analytical Reading.
 ### 6. Pigeonholing a book.
-	RULE 1. You must know what kind of book you are reading, and you should know this as early in the progress as possible, preferably before you begin to read.
+	* __RULE 1__. You must know what kind of book you are reading, and you should know this as early in the progress as possible, preferably before you begin to read.
 ### 7. X-raying a book.
-	* RULE 2. State the unity of the whole book in a single sentence, or at most a few sentences (a short paragraph).
+	* __RULE 2__. State the unity of the whole book in a single sentence, or at most a few sentences (a short paragraph).
 
-	* RULE 3. Set forth the major parts of the book, and show how these are organized into a whole, by being ordered to one another and to the unity of the whole.
+	* __RULE 3__. Set forth the major parts of the book, and show how these are organized into a whole, by being ordered to one another and to the unity of the whole.
 
-	* RULE 4. Find out what the author's problems were. The author of a book starts with a question or a set of questions. The book ostensibly contains the answer or answers.
+	* __RULE 4__. Find out what the author's problems were. The author of a book starts with a question or a set of questions. The book ostensibly contains the answer or answers.
 
 These four rules constitute the first state of analytical reading: finding what a book is about.
 
 ### 8. Coming to Terms with an Author.
-	* RULE 5. Find the important terms and through them come to terms with the author.
+	* __RULE 5__. Find the important terms and through them come to terms with the author.
 
 ### 9. Determining an Author's Message.
-	* RULE 6. Mark the important sentences in the book and discover the propositions they contain.
+	* __RULE 6__. Mark the important sentences in the book and discover the propositions they contain.
 
-	* RULE 7. Locate or construct the basic arguments in the book by finding them in the connection of sentences.
+	* __RULE 7__. Locate or construct the basic arguments in the book by finding them in the connection of sentences.
 
-	* RULE 8. Find out what the author's answer to his questions are, which ones are left unanswered and which ones were raised by the book.
+	* __RULE 8__. Find out what the author's answer to his questions are, which ones are left unanswered and which ones were raised by the book.
 
 These four rules form the second state of analytical reading: finding what a book says.
 
